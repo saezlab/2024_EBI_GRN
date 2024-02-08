@@ -26,3 +26,6 @@ Custom processed 10X multiome (snRNA-seq + snATAC-seq) dataset
 - Identification of key TFs using decoupler (1h 30 min)
 - Perturbation experiments of TFs to change cell fate using celloracle (3h)
 - Interpretation of results and preparation of the presentation (3h)
+
+## Contact
+pau.badia {at} uni-heidelberg.de
