@@ -22,7 +22,7 @@ Custom processed 10X multiome (snRNA-seq + snATAC-seq) dataset
 
 ## Project breakdown into days
 - Discussion of the dataset and objectives (45 min)
-- Inference of  a multimodal GRN using celloracle (3h)
+- Inference of multimodal GRNs using celloracle (3h)
 - Identification of key TFs using decoupler (1h 30 min)
 - Perturbation experiments of TFs to change cell fate using celloracle (3h)
 - Interpretation of results and preparation of the presentation (3h)
