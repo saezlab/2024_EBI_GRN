@@ -13,7 +13,11 @@ In this course, trainees will infer and analyse GRNs from a 10X multiome single-
 [3] Badia-i-Mompel, P. et al. decoupleR: ensemble of computational methods to infer biological activities from omics data. Bioinforma. Adv. 2, vbac016 (2022).
 
 ## Dataset
-Custom processed 10X multiome (snRNA-seq + snATAC-seq) dataset
+Custom processed 10X multiome (snRNA-seq + snATAC-seq) dataset. To download run:
+```
+wget 'https://zenodo.org/records/10641731/files/base_GRN_dataframe.csv?download=1' -O base_GRN_dataframe.csv
+wget 'https://zenodo.org/records/10641731/files/pbmc.h5ad?download=1' -O pbmc.h5ad
+```
 
 ## Project aims
 - Handling of single-cell datasets
